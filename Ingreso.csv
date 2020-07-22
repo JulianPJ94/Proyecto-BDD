@@ -1,0 +1,74 @@
+idRegistro;Fecha ingreso;Serie_medicina;Cedula_bodeguero;Justificativo;Cantidad
+ir001;6/1/2020;;;Falta de medicina;23
+ir002;7/1/2020;;;Remplazo medicina;11
+ir003;8/1/2020;;;Remplazo medicina;16
+ir004;16/1/2020;;;Falta de medicina;17
+ir008;5/2/2020;;;Venta al por mayor;6
+ir009;8/2/2020;;;Falta de medicina;5
+ir010;11/2/2020;;;Venta al por mayor;16
+ir011;12/2/2020;;;Remplazo medicina;15
+ir012;18/2/2020;;;Venta al por mayor;26
+ir016;9/3/2020;;;Venta al por mayor;15
+ir017;11/3/2020;;;Falta de medicina;10
+ir018;11/3/2020;;;Venta al por mayor;18
+ir019;11/3/2020;;;Venta al por mayor;24
+ir022;16/3/2020;;;Venta al por mayor;20
+ir023;20/3/2020;;;Remplazo medicina;6
+ir024;26/3/2020;;;Venta al por mayor;19
+ir028;3/4/2020;;;Falta de medicina;14
+ir029;6/4/2020;;;Venta al por mayor;10
+ir030;9/4/2020;;;Venta al por mayor;14
+ir035;23/4/2020;;;Venta al por mayor;13
+ir036;28/4/2020;;;Remplazo medicina;13
+ir037;31/04/2020;;;Venta al por mayor;6
+ir038;31/04/2020;;;Venta al por mayor;22
+ir042;5/5/2020;;;Falta de medicina;10
+ir043;8/5/2020;;;Falta de medicina;24
+ir044;11/5/2020;;;Falta de medicina;21
+ir048;27/5/2020;;;Falta de medicina;18
+ir049;30/5/2020;;;Falta de medicina;12
+ir050;1/6/2020;;;Falta de medicina;14
+ir051;1/6/2020;;;Remplazo medicina;11
+ir052;2/6/2020;;;Falta de medicina;22
+ir056;4/6/2020;;;Falta de medicina;29
+ir057;5/6/2020;;;Falta de medicina;19
+ir058;6/6/2020;;;Falta de medicina;21
+ir059;6/6/2020;;;Falta de medicina;26
+ir060;8/6/2020;;;Falta de medicina;9
+ir066;11/6/2020;;;Venta al por mayor;28
+ir067;11/6/2020;;;Falta de medicina;14
+ir068;12/6/2020;;;Venta al por mayor;24
+ir072;15/6/2020;;;Venta al por mayor;21
+ir073;18/6/2020;;;Remplazo medicina;27
+ir074;16/6/2020;;;Falta de medicina;17
+ir075;17/6/2020;;;Falta de medicina;7
+ir080;22/6/2020;;;Falta de medicina;6
+ir081;23/6/2020;;;Falta de medicina;7
+ir082;25/6/2020;;;Falta de medicina;10
+ir083;29/6/2020;;;Falta de medicina;20
+ir088;30/6/2020;;;Falta de medicina;19
+ir089;1/7/2020;;;Falta de medicina;25
+ir090;1/7/2020;;;Falta de medicina;24
+ir095;2/7/2020;;;Falta de medicina;27
+ir096;2/7/2020;;;Falta de medicina;14
+ir097;2/7/2020;;;Falta de medicina;9
+ir098;2/7/2020;;;Falta de medicina;18
+ir102;3/7/2020;;;Falta de medicina;5
+ir103;4/7/2020;;;Falta de medicina;20
+ir104;4/7/2020;;;Falta de medicina;5
+ir108;6/7/2020;;;Falta de medicina;9
+ir109;6/7/2020;;;Falta de medicina;10
+ir110;6/7/2020;;;Remplazo medicina;22
+ir111;8/7/2020;;;Falta de medicina;28
+ir112;8/7/2020;;;Falta de medicina;18
+ir118;10/7/2020;;;Falta de medicina;14
+ir119;10/7/2020;;;Falta de medicina;10
+ir120;10/7/2020;;;Falta de medicina;25
+ir121;11/7/2020;;;Venta al por mayor;5
+ir125;12/7/2020;;;Venta al por mayor;10
+ir126;13/7/2020;;;Falta de medicina;27
+ir127;14/7/2020;;;Falta de medicina;27
+ir128;14/7/2020;;;Falta de medicina;18
+ir133;14/7/2020;;;Falta de medicina;6
+ir134;14/7/2020;;;Falta de medicina;19
+ir135;15/7/2020;;;Remplazo medicina;30
